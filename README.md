@@ -1,6 +1,6 @@
 ### Hey there Everyone 👋 Sandip here
 
-<img align="right" src = "https://cdn.vectorstock.com/i/1000x1000/90/21/handsome-business-man-cartoon-character-vector-23929021.webp">
+<img align="right" width="400" src = "https://cdn.vectorstock.com/i/1000x1000/90/21/handsome-business-man-cartoon-character-vector-23929021.webp">
 - 🌱 I’m currently learning **Java Frameworks, Python, Django**
 
 - 📫 How to reach me **kanzariyasandip300@gmail.com**
