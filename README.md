@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandip-kanzariya&show_icons=true&locale=en" alt="sandip-kanzariya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandip-kanzariya&" alt="sandip-kanzariya" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandip-kanzariya&show_icons=true&locale=en&layout=compact" alt="sandip-kanzariya" /></p>
