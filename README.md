@@ -22,7 +22,7 @@
 
 ---
 ### My projects 
-|Title|Thechnology|Sem|
+|Title|Technologies|Sem|
 |---|---|---|
 |Employee Management System |JAVA : Spring Boot JPA & Spring Security|4th | 
 |College Predictor : DuHacks |PHP| 3rd| 
