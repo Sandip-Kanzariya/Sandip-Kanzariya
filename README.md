@@ -11,13 +11,13 @@
 ### My projects 
 |Title|Technologies|Semester & Events|Github|
 |---|---|---|---|
-|Post Application|React & Firebase|Learning|[Code](https://github.com/Sandip-Kanzariya/React/tree/firebaseproject) / [Live](https://react-project-aeaa2.web.app/)|
+|[Post Application](https://react-project-aeaa2.web.app/)|React & Firebase|Learning|[Code](https://github.com/Sandip-Kanzariya/React/tree/firebaseproject)|
 |Employee Management System |JAVA : SpringBoot JPA, Thymeleaf & Spring Security|4th| [Code](https://github.com/Sandip-Kanzariya/Employee-Management-System)|
 |Hotel Management System|Python(Django)|4th|[Code](https://github.com/Sandip-Kanzariya/Hotel-Management-System-Django-Project)|
 |Hotel Management System|DBMS|3rd|[Report](https://github.com/Sandip-Kanzariya/Hotel-Management-System-DBMS-Project)|
 |College Predictor|PHP, HTML & CSS|DuHacks-2022|[Code](https://github.com/Sandip-Kanzariya/CollegeSupport)|
 |Advertisement blog for electronics items|PHP, HTML & CSS|2nd|[Code](https://github.com/Sandip-Kanzariya/TechnoAdd_CE055)|
-|My Demo Portfolio|CSS & HTML|2nd|[Code](https://github.com/Sandip-Kanzariya/Demo-Portfolio) / [Live](https://sandip-kanzariya.github.io/Demo-Portfolio/)|
+|[My Demo Portfolio](https://sandip-kanzariya.github.io/Demo-Portfolio/)|CSS & HTML|2nd|[Code](https://github.com/Sandip-Kanzariya/Demo-Portfolio)|
 
 
 # Articles 
