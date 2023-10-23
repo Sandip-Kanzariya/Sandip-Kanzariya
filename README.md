@@ -11,6 +11,9 @@
 ### My projects 
 |Title|Technologies|Semester & Events|Github|
 |---|---|---|---|
+|[Job Portal]()|MERN|5th|[Code](https://github.com/Sandip-Kanzariya/Job-Portal-Mern)|
+|Hostel Management System|.NET MVC Core|5th|[Code](https://github.com/DigitalGit2003/HostelManagementSystem)|
+|Election Management System|.NET Framework|5th|[Code](https://github.com/DigitalGit2003/DotNetFrameworkProject)|
 |[Post Application](https://react-project-aeaa2.web.app/)|React & Firebase|Learning|[Code](https://github.com/Sandip-Kanzariya/React/tree/firebaseproject)|
 |Employee Management System |JAVA : SpringBoot JPA, Thymeleaf & Spring Security|4th| [Code](https://github.com/Sandip-Kanzariya/Employee-Management-System)|
 |Hotel Management System|Python(Django)|4th|[Code](https://github.com/Sandip-Kanzariya/Hotel-Management-System-Django-Project)|
