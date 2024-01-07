@@ -1,33 +1,36 @@
-### Hey there Everyone 👋 Sandip here
+### Hey there Everyone 👋 **Sandip** here
 
-<!-- <img align="right" width="400"  src = "https://cdn.vectorstock.com/i/1000x1000/90/21/handsome-business-man-cartoon-character-vector-23929021.webp"> -->
-
-
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **kanzariyasandip300@gmail.com**
 
 ---
 ### My projects 
-|Title|Technologies|Semester & Events|Github|
+|Title|Tech Stack|Semester & Events|Github|
 |---|---|---|---|
-|[Job Portal]()|MERN|5th|[Code](https://github.com/Sandip-Kanzariya/Job-Portal-Mern)|
-|Hostel Management System|.NET MVC Core|5th|[Code](https://github.com/DigitalGit2003/HostelManagementSystem)|
-|Election Management System|.NET Framework|5th|[Code](https://github.com/DigitalGit2003/DotNetFrameworkProject)|
-|[Post Application](https://react-project-aeaa2.web.app/)|React & Firebase|Learning|[Code](https://github.com/Sandip-Kanzariya/React/tree/firebaseproject)|
-|Employee Management System |JAVA : SpringBoot JPA, Thymeleaf & Spring Security|4th| [Code](https://github.com/Sandip-Kanzariya/Employee-Management-System)|
-|Hotel Management System|Python(Django)|4th|[Code](https://github.com/Sandip-Kanzariya/Hotel-Management-System-Django-Project)|
+|[Job Portal]()|[![MERN](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vercel,js,tailwind,bootstrap,html,css)](https://skillicons.dev)|5th|[Code](https://github.com/Sandip-Kanzariya/Job-Portal-Mern)|
+|Hostel Management System|[![.NetMVC](https://skillicons.dev/icons?i=html,css,bootstrap,cs,dotnet)](https://skillicons.dev) MVC|5th|[Code](https://github.com/DigitalGit2003/HostelManagementSystem)|
+|Election Management System|[![.NetMVC](https://skillicons.dev/icons?i=html,css,bootstrap,cs,dotnet)](https://skillicons.dev) Framework|5th|[Code](https://github.com/DigitalGit2003/DotNetFrameworkProject)|
+|[Post Application](https://react-project-aeaa2.web.app/)|[![React](https://skillicons.dev/icons?i=react,firebase)](https://skillicons.dev)|Learning|[Code](https://github.com/Sandip-Kanzariya/React/tree/firebaseproject)|
+|Employee Management System |[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) SpringBoot JPA, Thymeleaf & Spring Security|4th| [Code](https://github.com/Sandip-Kanzariya/Employee-Management-System)|
+|Hotel Management System|[![Python](https://skillicons.dev/icons?i=html,css,bootstrap,py,django,mysql)](https://skillicons.dev)|4th|[Code](https://github.com/Sandip-Kanzariya/Hotel-Management-System-Django-Project)|
 |Hotel Management System|DBMS|3rd|[Report](https://github.com/Sandip-Kanzariya/Hotel-Management-System-DBMS-Project)|
-|College Predictor|PHP, HTML & CSS|DuHacks-2022|[Code](https://github.com/Sandip-Kanzariya/CollegeSupport)|
-|Advertisement blog for electronics items|PHP, HTML & CSS|2nd|[Code](https://github.com/Sandip-Kanzariya/TechnoAdd_CE055)|
-|[My Demo Portfolio](https://sandip-kanzariya.github.io/Demo-Portfolio/)|CSS & HTML|2nd|[Code](https://github.com/Sandip-Kanzariya/Demo-Portfolio)|
+|College Predictor|[![.NetMVC](https://skillicons.dev/icons?i=php,mysql,html,css,bootstrap)](https://skillicons.dev)|DuHacks-2022|[Code](https://github.com/Sandip-Kanzariya/CollegeSupport)|
+|Advertisement blog for electronics items|[![.NetMVC](https://skillicons.dev/icons?i=php,mysql,html,css,bootstrap)](https://skillicons.dev)|2nd|[Code](https://github.com/Sandip-Kanzariya/TechnoAdd_CE055)|
+|[My Demo Portfolio](https://sandip-kanzariya.github.io/Demo-Portfolio/)|[![.NetMVC](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)|2nd|[Code](https://github.com/Sandip-Kanzariya/Demo-Portfolio)|
 
 
 # Articles 
 [1](https://sspark.hashnode.dev/binary-to-decimal-decimal-to-binary-in-c-python-using-some-inbuild-functions)
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<h3 align="left">Language & Framework</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,express,react,nodejs,ts,angular,c,cpp,java,spring,cs,dotnet,py,django,php)](https://skillicons.dev)
+
+
+<h3 align="left">Database & Tool</h3>
+
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,eclipse,mongodb,mysql,postman,vercel)](https://skillicons.dev)
 
 
 <h3 align="left">Connect with me:</h3>
