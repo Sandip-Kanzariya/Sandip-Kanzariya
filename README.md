@@ -9,7 +9,7 @@
 |Title|Tech Stack|Semester & Events|Github|
 |---|---|---|---|
 |[Medminear](https://web-scraping-omega.vercel.app/)|[![FullStack](https://skillicons.dev/icons?i=postgresql,flask,python,react,vercel,js,tailwind,bootstrap,html,css)](https://skillicons.dev)|6th|[Code](https://github.com/DigitalGit2003/WebScraping_Frontend)|
-|QuizzCraft|[![SAOP](https://skillicons.dev/icons?i=bootstrap,html,css,cs,dotnet)](https://skillicons.dev)SOAP|6th|[Code]()|
+|QuizzCraft|[![SAOP](https://skillicons.dev/icons?i=bootstrap,html,css,cs,dotnet)](https://skillicons.dev)SOAP|6th|[Code](https://github.com/Rushi0508/QuizzCraft)|
 |[Job Portal](https://job-portal-mern-nu.vercel.app/)|[![MERN](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vercel,js,tailwind,bootstrap,html,css)](https://skillicons.dev)|5th|[Code](https://github.com/Sandip-Kanzariya/Job-Portal-Mern)|
 |Hostel Management System|[![.NetMVC](https://skillicons.dev/icons?i=html,css,bootstrap,cs,dotnet)](https://skillicons.dev) MVC|5th|[Code](https://github.com/DigitalGit2003/HostelManagementSystem)|
 |Election Management System|[![.NetMVC](https://skillicons.dev/icons?i=html,css,bootstrap,cs,dotnet)](https://skillicons.dev) Framework|5th|[Code](https://github.com/DigitalGit2003/DotNetFrameworkProject)|
