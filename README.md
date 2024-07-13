@@ -1,6 +1,6 @@
 ### Hey there Everyone 👋 **Sandip** here
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **kanzariyasandip300@gmail.com**
 
